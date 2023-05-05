@@ -1,0 +1,9 @@
+{
+  "editor.cursorStyle": "underline",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "python.formatting.provider": "yapf"
+}
